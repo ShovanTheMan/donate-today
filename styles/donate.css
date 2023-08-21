@@ -41,3 +41,47 @@ nav{
     background: #ef6053;
     
 }
+main{
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: 0 auto;
+   
+}
+section{
+    margin-top: 90px;
+   
+    
+}
+.donate{
+    text-align: center;
+   
+}
+.section-title{
+    margin-bottom: 20px;
+    
+}
+.section-description{
+  
+  text-align: center;
+  font-size: 20px; 
+  margin-bottom: 10px; 
+}
+.donate-info-container{
+    display: flex;
+    justify-content:center;
+    gap: 24px;
+}
+.donate-info{
+    background-color: rebeccapurple;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    
+    padding: 30px;
+
+}
+.donate .info-title{
+    font-size: 20px;
+    color: #757575;
+    margin-top: 10px;
+    margin-right: 10px;
+}
