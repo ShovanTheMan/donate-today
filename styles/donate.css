@@ -34,11 +34,12 @@ nav{
     color: cornsilk;
     font-size: 20px;
     font-weight: 500;
-    height: 44px;
+    height: 40px;
     border: 0;
     padding: 0px 15px;
     border-radius: 5px;
     background: #ef6053;
+    margin: 0;
     
 }
 main{
@@ -72,16 +73,86 @@ section{
     gap: 24px;
 }
 .donate-info{
-    background-color: rebeccapurple;
+    margin-top: 15px;
+    background-color: #757575;
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
     
-    padding: 30px;
+    padding: 20px;
 
 }
 .donate .info-title{
     font-size: 20px;
+    color: black;
+    
+    align-items: center;
+}
+.our-donate-plan{
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 20px;
+   
+}
+.plan-container{
+    margin-top: 40px;
+    display: flex;
+    gap: 24px;
+}
+
+.plan{
+    background-color: rgb(209, 201, 218);
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-top: auto;
+    padding: 15px;
+    
+}
+.plan-title{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px ;
+}
+.plan-description{
+    text-align: left;
     color: #757575;
-    margin-top: 10px;
-    margin-right: 10px;
+
+}
+.depend{
+    margin-left: 140px;
+    
+
+}
+.depend-description{
+    text-align: left;
+    margin-bottom: 30px;
+}
+.depend-content{
+    display:flex;
+}
+.survive{
+    margin-left: 140px;
+
+}
+.updates{
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 20px;
+   
+}
+.about{
+    text-align: center;
+     
+     margin-left: 230px;
+     margin-right: 230px;
+      background-color:#FFF8F3;
+      border-radius: 10px;
+      padding: 130px 150px;
+}
+.space{
+    display: inline;
+    margin: 0;
 }
