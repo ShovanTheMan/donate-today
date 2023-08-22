@@ -121,17 +121,12 @@ section{
     color: #757575;
 
 }
-.depend{
+.container{
     margin-left: 140px;
     display: flex;
     
 
-}
-.depend-description{
-    margin-top: 200px;
-    text-align: left;
-    margin-bottom: 30px;
-    
+
 }
 .depend-content{
    
