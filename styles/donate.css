@@ -60,6 +60,7 @@ section{
 .section-title{
     margin-bottom: 20px;
     
+    
 }
 .section-description{
   
@@ -122,18 +123,22 @@ section{
 }
 .depend{
     margin-left: 140px;
+    display: flex;
     
 
 }
 .depend-description{
+    margin-top: 200px;
     text-align: left;
     margin-bottom: 30px;
+    
 }
 .depend-content{
-    display:flex;
+   
 }
 .survive{
     margin-left: 140px;
+    display: flex;
 
 }
 .updates{
@@ -155,4 +160,7 @@ section{
 .space{
     display: inline;
     margin: 0;
+}
+.input{
+    color:rebeccapurple ;
 }
