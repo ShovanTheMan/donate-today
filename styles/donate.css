@@ -128,14 +128,17 @@ section{
 
 
 }
-.depend-content{
-   
-}
+
 .survive{
-    margin-left: 140px;
+    
     display: flex;
 
 }
+.survive-info{
+    padding-left: 70px;
+
+}
+
 .updates{
     text-align: center;
     margin-left: 140px;
@@ -153,9 +156,19 @@ section{
       padding: 130px 150px;
 }
 .space{
-    display: inline;
+    
     margin: 0;
 }
 .input{
     color:rebeccapurple ;
+}
+.img{
+   width: 50%;
+   height: 30%;
+}
+
+.img2{
+   max-width: 50%;
+   max-height: 30%;
+  
 }
